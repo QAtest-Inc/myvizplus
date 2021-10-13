@@ -13,5 +13,5 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v2
         with:
-          build: yarn install --frozen-lockfile
-          start: npm start
+          build: npm install cypress
+          start: npm run start
