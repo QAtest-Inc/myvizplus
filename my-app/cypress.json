@@ -1,3 +1,5 @@
 {
-  "projectId": "qhaezr"
+  "projectId": "qhaezr",
+  "componentFolder": "cypress/component",
+  "testFiles": "**/*.spec.{js,ts,jsx,tsx}"
 }
