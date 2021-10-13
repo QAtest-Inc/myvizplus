@@ -9,6 +9,12 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "karma": "^6.3.4"
+  },
+  "devDependencies": {
+    "@cypress/react": "^5.10.1",
+    "@cypress/webpack-dev-server": "^1.6.0",
+    "cypress": "^8.6.0"
   }
 }
